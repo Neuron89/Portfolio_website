@@ -2,9 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
-import {
-  AiFillGithub,
-} from "react-icons/ai";
+import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
@@ -14,18 +12,22 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-            A LITTLE BIT ABOUT <span className="purple"> ME </span> 
+              A LITTLE BIT ABOUT <span className="purple"> ME </span>
             </h1>
             <p className="home-about-body">
               solving problems has always brought me the most joy in life.
               <br />
               <br />
-              the thrill of fixng something or building something from scratch is what gets me out of bed in the morning (and makes me stay up late at night)‍
+              the thrill of fixng something or building something from scratch
+              is what gets me out of bed in the morning (and makes me stay up
+              late at night)‍
               <br />
-              <br />Most of my foundational knowledge comes from harware and basic electrical engenerring which lead me into a desire to do more with it. 
               <br />
+              Most of my foundational knowledge comes from harware and basic
+              electrical engenerring which lead me into a desire to do more with
+              it.
               <br />
-              I have become very profecient in: 
+              <br />I have become very profecient in:
               <i>
                 <b className="purple"> Python, Bash, and Yaml. </b>
               </i>
@@ -34,15 +36,13 @@ function Home2() {
               My field of Interest's are building and maintaining new &nbsp;
               <i>
                 <b className="purple">Servers and large scale networks </b>
-                which lead into a need to become profiecnt at {" "}
-                <b className="purple">
-                  Coding.
-                </b>
+                which lead into a need to become profiecnt at{" "}
+                <b className="purple">Coding.</b>
               </i>
               <br />
-              <br />
-              I have also had a desire to make things work for me, not the other way around. this has lead to me 
-              building my own <b className="purple">Devices</b> using 
+              <br />I have also had a desire to make things work for me, not the
+              other way around. this has lead to me building my own{" "}
+              <b className="purple">Devices</b> using
               <i>
                 <b className="purple"> Microcontrollers </b>
                 and
@@ -65,8 +65,7 @@ function Home2() {
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
-            <p>
-            </p>
+            <p></p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
