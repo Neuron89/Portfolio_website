@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4331c996.css",
+    "main.js": "/static/js/main.db6b6598.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/wallpaper.jpg": "/static/media/wallpaper.5165bc29607ccc6ac7a9.jpg",
+    "static/media/lilly58.jpeg": "/static/media/lilly58.a2a89e0f78a1d39d5d48.jpeg",
+    "static/media/restore.png": "/static/media/restore.ac87910e10a7dd6313c3.png",
+    "static/media/result.png": "/static/media/result.35d88d3704db32fc51f1.png",
+    "static/media/weatherapp.webp": "/static/media/weatherapp.d20f4f726f5d8fc674fb.webp",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/HNester_Resume2024.pdf": "/static/media/HNester_Resume2024.760fac6700fc4f60171c.pdf",
+    "static/media/blog.jpg": "/static/media/blog.918209a66be14d2382ee.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "index.html": "/index.html",
+    "main.4331c996.css.map": "/static/css/main.4331c996.css.map",
+    "main.db6b6598.js.map": "/static/js/main.db6b6598.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4331c996.css",
+    "static/js/main.db6b6598.js"
+  ]
+}
